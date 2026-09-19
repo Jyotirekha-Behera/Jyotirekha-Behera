@@ -29,16 +29,13 @@ and looking for opportunities to grow in Data Science & Analytics.
 <p align="left">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://www.linkedin.com/in/jyotirekha-behera-a31aa5284/" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_INDEED_PROFILE_URL">
-  <img src="https://img.shields.io/badge/Indeed-2164F3?style=for-the-badge&logo=indeed&logoColor=white" />
-</a>
 
 </p>
 
